@@ -1,6 +1,10 @@
-# Aplicação React de Gerenciamento de Projetos e Tarefas
+# Atividade Prática Módulo 10
 
-Projeto criado com as bibliotecas React JS e Material UI.
+Título da Prática: Versionando o projeto template .
+
+Objetivos: Permitir ao aluno reforçar seus conhecimentos de versionamento de código.
+
+Materiais, Métodos e Ferramentas: IDE VS Code, Git Client, GitHub.
 
 ## Passo-a-passo para execução
 
