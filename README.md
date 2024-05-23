@@ -17,3 +17,5 @@ Materiais, Métodos e Ferramentas: IDE VS Code, Git Client, GitHub.
    `
    npm start
    `
+# Login
+O login e senha é admin
